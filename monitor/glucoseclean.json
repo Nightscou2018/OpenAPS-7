@@ -1,0 +1,22 @@
+[
+  {
+    "body": "6c", 
+    "display_time": "2016-07-30T17:26:00", 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 2, 
+    "packet_size": 5, 
+    "raw": "51-da-1e-10-6c", 
+    "glucose": 108, 
+    "op": "0x0e"
+  }, 
+  {
+    "glucose": 66, 
+    "display_time": "2016-07-30T17:22:00", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 8, 
+    "packet_size": 0, 
+    "op": 33
+  }
+]
