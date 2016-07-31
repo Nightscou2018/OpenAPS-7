@@ -1,26 +1,67 @@
 [
   {
-    "name": "DataEnd", 
-    "date_type": "none", 
-    "_tell": 1, 
-    "dateString": "2016-07-31T03:38:00+01:00", 
-    "packet_size": 0, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "date": 1469932680000, 
-    "type": "pumpdata", 
-    "op": "0x01"
-  }, 
-  {
-    "glucose": 130, 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
-    "dateString": "2016-07-31T03:33:00+01:00", 
+    "dateString": "2016-07-31T04:08:00+01:00", 
     "packet_size": 0, 
+    "date": 1469934480000, 
+    "op": 39, 
     "device": "openaps://medtronic/pump/cgm", 
-    "date": 1469932380000, 
-    "sgv": 130, 
+    "sgv": 78, 
     "type": "sgv", 
-    "op": 65
+    "glucose": 78
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
+    "dateString": "2016-07-31T04:03:00+01:00", 
+    "packet_size": 0, 
+    "date": 1469934180000, 
+    "op": 44, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 88, 
+    "type": "sgv", 
+    "glucose": 88
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "dateString": "2016-07-31T03:58:00+01:00", 
+    "packet_size": 0, 
+    "date": 1469933880000, 
+    "op": 48, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 96, 
+    "type": "sgv", 
+    "glucose": 96
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 5, 
+    "dateString": "2016-07-31T03:53:00+01:00", 
+    "packet_size": 0, 
+    "date": 1469933580000, 
+    "op": 52, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 104, 
+    "type": "sgv", 
+    "glucose": 104
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 6, 
+    "dateString": "2016-07-31T03:48:00+01:00", 
+    "packet_size": 0, 
+    "date": 1469933280000, 
+    "op": 57, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 114, 
+    "type": "sgv", 
+    "glucose": 114
   }
 ]
