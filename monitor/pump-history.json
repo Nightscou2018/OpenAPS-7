@@ -1,0 +1,291 @@
+[
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-31T21:43:13 head[3], body[0] op[0x0b]", 
+    "alarm_type": 102, 
+    "alarm_description": "Low Glucose", 
+    "_body": "", 
+    "_head": "0b663b", 
+    "amount": 59, 
+    "timestamp": "2016-07-31T21:43:13+01:00", 
+    "_date": "4deb55bf10"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-07-31T21:42:12 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-07-31T21:42:12+01:00", 
+    "_body": "263400", 
+    "profile_index": 6, 
+    "_head": "7b06", 
+    "rate": 1.3, 
+    "offset": 68400000, 
+    "_date": "4cea151f10"
+  }, 
+  {
+    "_type": "PumpResume", 
+    "_description": "PumpResume 2016-07-31T21:42:12 head[2], body[0] op[0x1f]", 
+    "timestamp": "2016-07-31T21:42:12+01:00", 
+    "_body": "", 
+    "_head": "1f66", 
+    "_date": "4cea151f10"
+  }, 
+  {
+    "_type": "PumpSuspend", 
+    "_description": "PumpSuspend 2016-07-31T21:28:26 head[2], body[0] op[0x1e]", 
+    "timestamp": "2016-07-31T21:28:26+01:00", 
+    "_body": "", 
+    "_head": "1e43", 
+    "_date": "5adc151f10"
+  }, 
+  {
+    "_type": "ClearAlarm", 
+    "_description": "ClearAlarm 2016-07-31T21:28:23 head[2], body[0] op[0x0c]", 
+    "timestamp": "2016-07-31T21:28:23+01:00", 
+    "_body": "", 
+    "_head": "0c67", 
+    "_date": "57dc151f10"
+  }, 
+  {
+    "_type": "PumpSuspend", 
+    "_description": "PumpSuspend 2016-07-31T21:28:19 head[2], body[0] op[0x1e]", 
+    "timestamp": "2016-07-31T21:28:19+01:00", 
+    "_body": "", 
+    "_head": "1e02", 
+    "_date": "53dc151f10"
+  }, 
+  {
+    "_type": "AlarmPump", 
+    "_description": "AlarmPump 2016-07-31T21:28:19 head[4], body[0] op[0x06]", 
+    "timestamp": "2016-07-31T21:28:19+01:00", 
+    "_body": "", 
+    "_head": "06670155", 
+    "_date": "53dcb59f10"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-07-31T21:25:17 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-07-31T21:25:17+01:00", 
+    "_body": "263400", 
+    "profile_index": 6, 
+    "_head": "7b06", 
+    "rate": 1.3, 
+    "offset": 68400000, 
+    "_date": "51d9151f10"
+  }, 
+  {
+    "_type": "NewTimeSet", 
+    "_description": "NewTimeSet 2016-07-31T21:24:40 head[2], body[0] op[0x18]", 
+    "timestamp": "2016-07-31T21:24:40+01:00", 
+    "_body": "", 
+    "_head": "1800", 
+    "_date": "68d8155f10"
+  }, 
+  {
+    "_type": "ChangeTime", 
+    "_description": "ChangeTime 2016-07-31T21:24:33 head[2], body[0] op[0x17]", 
+    "timestamp": "2016-07-31T21:24:33+01:00", 
+    "_body": "", 
+    "_head": "1700", 
+    "_date": "61d8155f10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-31T21:23:56 head[3], body[0] op[0x0b]", 
+    "alarm_type": 102, 
+    "alarm_description": "Low Glucose", 
+    "_body": "", 
+    "_head": "0b6647", 
+    "amount": 71, 
+    "timestamp": "2016-07-31T21:23:56+01:00", 
+    "_date": "78d755bf10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-31T21:19:23 head[3], body[0] op[0x0b]", 
+    "alarm_type": 115, 
+    "alarm_description": "Low Glucose Predicted", 
+    "_body": "", 
+    "_head": "0b7300", 
+    "timestamp": "2016-07-31T21:19:23+01:00", 
+    "_date": "57d355bf10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-07-31T20:55:10 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-07-31T20:55:10+01:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "4af7141f10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-07-31T20:55:10 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-07-31T20:55:10+01:00", 
+    "_body": "00", 
+    "_head": "3304", 
+    "rate": 0.1, 
+    "_date": "4af7141f10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-31T20:48:12 head[3], body[0] op[0x0b]", 
+    "alarm_type": 115, 
+    "alarm_description": "Low Glucose Predicted", 
+    "_body": "", 
+    "_head": "0b7300", 
+    "timestamp": "2016-07-31T20:48:12+01:00", 
+    "_date": "4cf054bf10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-31T20:08:25 head[3], body[0] op[0x0b]", 
+    "alarm_type": 114, 
+    "alarm_description": "Unknown sensor alarm (114)", 
+    "_body": "", 
+    "_head": "0b7200", 
+    "timestamp": "2016-07-31T20:08:25+01:00", 
+    "_date": "59c854bf10"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-07-31T19:47:16 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-07-31T19:47:16+01:00", 
+    "_body": "263400", 
+    "profile_index": 6, 
+    "_head": "7b06", 
+    "rate": 1.3, 
+    "offset": 68400000, 
+    "_date": "50ef131f10"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-07-31T19:19:12 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-07-31T19:19:12+01:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c08ba6fc22855d0", 
+        "data": [
+          {
+            "amount": 4.65, 
+            "age": 111
+          }, 
+          {
+            "amount": 1.0, 
+            "age": 341
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 0.55, 
+    "duration": 0, 
+    "amount": 0.55, 
+    "unabsorbed": 5.35, 
+    "_head": "010016001600d600", 
+    "type": "normal", 
+    "_date": "4cd3531f10"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 7.7, 
+    "_description": "BolusWizard 2016-07-31T19:19:12 head[2], body[15] op[0x5b]", 
+    "timestamp": "2016-07-31T19:19:12+01:00", 
+    "_body": "0090004e0c2d2800000000d6000041", 
+    "carb_input": 0, 
+    "bg_target_high": 6.5, 
+    "sensitivity": 1.2, 
+    "carb_ratio": 7.8, 
+    "food_estimate": 0.0, 
+    "unabsorbed_insulin_total": 5.35, 
+    "correction_estimate": 1.0, 
+    "bg_target_low": 4.5, 
+    "_head": "5b4d", 
+    "bolus_estimate": 0.0, 
+    "_date": "4cd3131f10"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-07-31T19:19:04 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-07-31T19:19:04+01:00", 
+    "_body": "", 
+    "_head": "0a4d", 
+    "amount": 77, 
+    "_date": "44d3531f10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-07-31T19:17:15 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-07-31T19:17:15+01:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "4fd1131f10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-07-31T19:17:15 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-07-31T19:17:15+01:00", 
+    "_body": "00", 
+    "_head": "3370", 
+    "rate": 2.8, 
+    "_date": "4fd1131f10"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-07-31T19:00:00 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-07-31T19:00:00+01:00", 
+    "_body": "263400", 
+    "profile_index": 6, 
+    "_head": "7b06", 
+    "rate": 1.3, 
+    "offset": 68400000, 
+    "_date": "40c0131f10"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-07-31T18:49:37 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-07-31T18:49:37+01:00", 
+    "_body": "222a00", 
+    "profile_index": 5, 
+    "_head": "7b05", 
+    "rate": 1.05, 
+    "offset": 61200000, 
+    "_date": "65f1121f10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-07-31T18:19:37 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-07-31T18:19:37+01:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "65d3121f10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-07-31T18:19:37 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-07-31T18:19:37+01:00", 
+    "_body": "00", 
+    "_head": "3354", 
+    "rate": 2.1, 
+    "_date": "65d3121f10"
+  }, 
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-31T18:18:28 head[3], body[0] op[0x0b]", 
+    "alarm_type": 114, 
+    "alarm_description": "Unknown sensor alarm (114)", 
+    "_body": "", 
+    "_head": "0b7200", 
+    "timestamp": "2016-07-31T18:18:28+01:00", 
+    "_date": "5cd252bf10"
+  }
+]
