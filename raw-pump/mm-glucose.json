@@ -2,15 +2,1115 @@
   {
     "packet_size": 0, 
     "name": "DataEnd", 
-    "date": "2016-07-31T07:08:00", 
+    "date": "2016-07-31T15:43:00", 
     "date_type": "none", 
     "_tell": 1, 
     "op": "0x01"
   }, 
   {
-    "name": "GlucoseSensorData", 
+    "packet_size": 0, 
+    "name": "SensorWeakSignal", 
+    "date": "2016-07-31T15:38:00", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
+    "op": "0x02"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T15:33:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
+    "op": "0x13"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "SensorWeakSignal", 
+    "date": "2016-07-31T15:33:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "op": "0x02"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T15:28:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 5, 
+    "op": "0x13"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "SensorWeakSignal", 
+    "date": "2016-07-31T15:28:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 6, 
+    "op": "0x02"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T15:23:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 7, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 8, 
+    "sgv": 110, 
+    "date": "2016-07-31T15:23:00", 
+    "packet_size": 0, 
+    "op": 55
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 9, 
+    "sgv": 112, 
+    "date": "2016-07-31T15:18:00", 
+    "packet_size": 0, 
+    "op": 56
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 10, 
+    "sgv": 116, 
+    "date": "2016-07-31T15:13:00", 
+    "packet_size": 0, 
+    "op": 58
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 11, 
+    "sgv": 118, 
+    "date": "2016-07-31T15:08:00", 
+    "packet_size": 0, 
+    "op": 59
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 12, 
+    "sgv": 120, 
+    "date": "2016-07-31T15:03:00", 
+    "packet_size": 0, 
+    "op": 60
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 13, 
+    "sgv": 120, 
+    "date": "2016-07-31T14:58:00", 
+    "packet_size": 0, 
+    "op": 60
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 14, 
+    "sgv": 124, 
+    "date": "2016-07-31T14:53:00", 
+    "packet_size": 0, 
+    "op": 62
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 15, 
+    "sgv": 126, 
+    "date": "2016-07-31T14:48:00", 
+    "packet_size": 0, 
+    "op": 63
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 16, 
+    "sgv": 124, 
+    "date": "2016-07-31T14:43:00", 
+    "packet_size": 0, 
+    "op": 62
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 17, 
+    "sgv": 122, 
+    "date": "2016-07-31T14:38:00", 
+    "packet_size": 0, 
+    "op": 61
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 18, 
+    "sgv": 120, 
+    "date": "2016-07-31T14:33:00", 
+    "packet_size": 0, 
+    "op": 60
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 19, 
+    "sgv": 116, 
+    "date": "2016-07-31T14:28:00", 
+    "packet_size": 0, 
+    "op": 58
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 20, 
+    "sgv": 110, 
+    "date": "2016-07-31T14:23:00", 
+    "packet_size": 0, 
+    "op": 55
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 21, 
+    "sgv": 106, 
+    "date": "2016-07-31T14:18:00", 
+    "packet_size": 0, 
+    "op": 53
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 22, 
+    "sgv": 102, 
+    "date": "2016-07-31T14:13:00", 
+    "packet_size": 0, 
+    "op": 51
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 23, 
+    "sgv": 100, 
+    "date": "2016-07-31T14:08:00", 
+    "packet_size": 0, 
+    "op": 50
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 24, 
+    "sgv": 94, 
+    "date": "2016-07-31T14:03:00", 
+    "packet_size": 0, 
+    "op": 47
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 25, 
+    "sgv": 86, 
+    "date": "2016-07-31T13:58:00", 
+    "packet_size": 0, 
+    "op": 43
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 26, 
+    "sgv": 80, 
+    "date": "2016-07-31T13:53:00", 
+    "packet_size": 0, 
+    "op": 40
+  }, 
+  {
+    "packet_size": 6, 
+    "name": "SensorCalFactor", 
+    "raw": "4d-f0-1f-10-0d-ed", 
+    "date": "2016-07-31T13:48:00", 
+    "factor": 3.565, 
+    "date_type": "minSpecific", 
+    "_tell": 27, 
+    "op": "0x0f"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 34, 
+    "sgv": 72, 
+    "date": "2016-07-31T13:48:00", 
+    "packet_size": 0, 
+    "op": 36
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 35, 
+    "sgv": 68, 
+    "date": "2016-07-31T13:43:00", 
+    "packet_size": 0, 
+    "op": 34
+  }, 
+  {
+    "packet_size": 4, 
+    "name": "10-Something", 
+    "raw": "4d-e6-1f-10", 
+    "date": "2016-07-31T13:38:00", 
+    "date_type": "minSpecific", 
+    "_tell": 36, 
+    "op": "0x10"
+  }, 
+  {
+    "body": "43", 
+    "packet_size": 5, 
+    "amount": 67, 
+    "name": "CalBGForGH", 
+    "raw": "4d-e5-1f-10-43", 
+    "date": "2016-07-31T13:37:00", 
+    "date_type": "minSpecific", 
+    "_tell": 45, 
+    "op": "0x0e"
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "DataEnd", 
+    "date": "2016-07-31T13:53:00", 
+    "date_type": "none", 
+    "_tell": 41, 
+    "op": "0x01"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 42, 
+    "sgv": 0, 
+    "date": "2016-07-31T13:48:00", 
+    "packet_size": 0, 
+    "op": 0
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 43, 
+    "sgv": 0, 
+    "date": "2016-07-31T13:43:00", 
+    "packet_size": 0, 
+    "op": 0
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 44, 
+    "sgv": 64, 
+    "date": "2016-07-31T13:38:00", 
+    "packet_size": 0, 
+    "op": 32
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 51, 
+    "sgv": 60, 
+    "date": "2016-07-31T13:33:00", 
+    "packet_size": 0, 
+    "op": 30
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 52, 
+    "sgv": 62, 
+    "date": "2016-07-31T13:28:00", 
+    "packet_size": 0, 
+    "op": 31
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 53, 
+    "sgv": 62, 
+    "date": "2016-07-31T13:23:00", 
+    "packet_size": 0, 
+    "op": 31
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 54, 
+    "sgv": 62, 
+    "date": "2016-07-31T13:18:00", 
+    "packet_size": 0, 
+    "op": 31
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 55, 
+    "sgv": 60, 
+    "date": "2016-07-31T13:13:00", 
+    "packet_size": 0, 
+    "op": 30
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 56, 
+    "sgv": 58, 
+    "date": "2016-07-31T13:08:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 57, 
+    "sgv": 58, 
+    "date": "2016-07-31T13:03:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 58, 
+    "sgv": 56, 
+    "date": "2016-07-31T12:58:00", 
+    "packet_size": 0, 
+    "op": 28
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 59, 
+    "sgv": 56, 
+    "date": "2016-07-31T12:53:00", 
+    "packet_size": 0, 
+    "op": 28
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 60, 
+    "sgv": 56, 
+    "date": "2016-07-31T12:48:00", 
+    "packet_size": 0, 
+    "op": 28
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 61, 
+    "sgv": 56, 
+    "date": "2016-07-31T12:43:00", 
+    "packet_size": 0, 
+    "op": 28
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 62, 
+    "sgv": 56, 
+    "date": "2016-07-31T12:38:00", 
+    "packet_size": 0, 
+    "op": 28
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 63, 
+    "sgv": 58, 
+    "date": "2016-07-31T12:33:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 64, 
+    "sgv": 58, 
+    "date": "2016-07-31T12:28:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 65, 
+    "sgv": 58, 
+    "date": "2016-07-31T12:23:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 66, 
+    "sgv": 58, 
+    "date": "2016-07-31T12:18:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 67, 
+    "sgv": 58, 
+    "date": "2016-07-31T12:13:00", 
+    "packet_size": 0, 
+    "op": 29
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 68, 
+    "sgv": 60, 
+    "date": "2016-07-31T12:08:00", 
+    "packet_size": 0, 
+    "op": 30
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T12:03:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 69, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 70, 
+    "sgv": 60, 
+    "date": "2016-07-31T12:03:00", 
+    "packet_size": 0, 
+    "op": 30
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 71, 
+    "sgv": 62, 
+    "date": "2016-07-31T11:58:00", 
+    "packet_size": 0, 
+    "op": 31
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 72, 
+    "sgv": 64, 
+    "date": "2016-07-31T11:53:00", 
+    "packet_size": 0, 
+    "op": 32
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 73, 
+    "sgv": 64, 
+    "date": "2016-07-31T11:48:00", 
+    "packet_size": 0, 
+    "op": 32
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 74, 
+    "sgv": 64, 
+    "date": "2016-07-31T11:43:00", 
+    "packet_size": 0, 
+    "op": 32
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 75, 
+    "sgv": 64, 
+    "date": "2016-07-31T11:38:00", 
+    "packet_size": 0, 
+    "op": 32
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 76, 
+    "sgv": 66, 
+    "date": "2016-07-31T11:33:00", 
+    "packet_size": 0, 
+    "op": 33
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T11:28:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 77, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 78, 
+    "sgv": 66, 
+    "date": "2016-07-31T11:28:00", 
+    "packet_size": 0, 
+    "op": 33
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T11:23:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 79, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 80, 
+    "sgv": 68, 
+    "date": "2016-07-31T11:23:00", 
+    "packet_size": 0, 
+    "op": 34
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T11:18:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 81, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 82, 
+    "sgv": 68, 
+    "date": "2016-07-31T11:18:00", 
+    "packet_size": 0, 
+    "op": 34
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T11:13:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 83, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 84, 
+    "sgv": 68, 
+    "date": "2016-07-31T11:13:00", 
+    "packet_size": 0, 
+    "op": 34
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T11:08:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 85, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 86, 
+    "sgv": 70, 
+    "date": "2016-07-31T11:08:00", 
+    "packet_size": 0, 
+    "op": 35
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T11:03:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 87, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 88, 
+    "sgv": 70, 
+    "date": "2016-07-31T11:03:00", 
+    "packet_size": 0, 
+    "op": 35
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 89, 
+    "sgv": 72, 
+    "date": "2016-07-31T10:58:00", 
+    "packet_size": 0, 
+    "op": 36
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T10:53:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 90, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 91, 
+    "sgv": 74, 
+    "date": "2016-07-31T10:53:00", 
+    "packet_size": 0, 
+    "op": 37
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T10:48:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 92, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 93, 
+    "sgv": 74, 
+    "date": "2016-07-31T10:48:00", 
+    "packet_size": 0, 
+    "op": 37
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T10:43:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 94, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 95, 
+    "sgv": 76, 
+    "date": "2016-07-31T10:43:00", 
+    "packet_size": 0, 
+    "op": 38
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 96, 
+    "sgv": 78, 
+    "date": "2016-07-31T10:38:00", 
+    "packet_size": 0, 
+    "op": 39
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 97, 
+    "sgv": 80, 
+    "date": "2016-07-31T10:33:00", 
+    "packet_size": 0, 
+    "op": 40
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 98, 
+    "sgv": 82, 
+    "date": "2016-07-31T10:28:00", 
+    "packet_size": 0, 
+    "op": 41
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 99, 
+    "sgv": 82, 
+    "date": "2016-07-31T10:23:00", 
+    "packet_size": 0, 
+    "op": 41
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 100, 
+    "sgv": 84, 
+    "date": "2016-07-31T10:18:00", 
+    "packet_size": 0, 
+    "op": 42
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 101, 
+    "sgv": 84, 
+    "date": "2016-07-31T10:13:00", 
+    "packet_size": 0, 
+    "op": 42
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 102, 
+    "sgv": 84, 
+    "date": "2016-07-31T10:08:00", 
+    "packet_size": 0, 
+    "op": 42
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 103, 
+    "sgv": 84, 
+    "date": "2016-07-31T10:03:00", 
+    "packet_size": 0, 
+    "op": 42
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 104, 
+    "sgv": 84, 
+    "date": "2016-07-31T09:58:00", 
+    "packet_size": 0, 
+    "op": 42
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 105, 
+    "sgv": 84, 
+    "date": "2016-07-31T09:53:00", 
+    "packet_size": 0, 
+    "op": 42
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 106, 
+    "sgv": 86, 
+    "date": "2016-07-31T09:48:00", 
+    "packet_size": 0, 
+    "op": 43
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 107, 
+    "sgv": 86, 
+    "date": "2016-07-31T09:43:00", 
+    "packet_size": 0, 
+    "op": 43
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 108, 
+    "sgv": 86, 
+    "date": "2016-07-31T09:38:00", 
+    "packet_size": 0, 
+    "op": 43
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 109, 
+    "sgv": 88, 
+    "date": "2016-07-31T09:33:00", 
+    "packet_size": 0, 
+    "op": 44
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 110, 
+    "sgv": 88, 
+    "date": "2016-07-31T09:28:00", 
+    "packet_size": 0, 
+    "op": 44
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 111, 
+    "sgv": 90, 
+    "date": "2016-07-31T09:23:00", 
+    "packet_size": 0, 
+    "op": 45
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 112, 
+    "sgv": 90, 
+    "date": "2016-07-31T09:18:00", 
+    "packet_size": 0, 
+    "op": 45
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 113, 
+    "sgv": 90, 
+    "date": "2016-07-31T09:13:00", 
+    "packet_size": 0, 
+    "op": 45
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 114, 
+    "sgv": 92, 
+    "date": "2016-07-31T09:08:00", 
+    "packet_size": 0, 
+    "op": 46
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 115, 
+    "sgv": 94, 
+    "date": "2016-07-31T09:03:00", 
+    "packet_size": 0, 
+    "op": 47
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 116, 
+    "sgv": 96, 
+    "date": "2016-07-31T08:58:00", 
+    "packet_size": 0, 
+    "op": 48
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 117, 
+    "sgv": 98, 
+    "date": "2016-07-31T08:53:00", 
+    "packet_size": 0, 
+    "op": 49
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T08:48:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 118, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 119, 
+    "sgv": 102, 
+    "date": "2016-07-31T08:48:00", 
+    "packet_size": 0, 
+    "op": 51
+  }, 
+  {
+    "packet_size": 0, 
+    "name": "19-Something", 
+    "date": "2016-07-31T08:43:00", 
+    "date_type": "prevTimestamp", 
+    "_tell": 120, 
+    "op": "0x13"
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 121, 
+    "sgv": 108, 
+    "date": "2016-07-31T08:43:00", 
+    "packet_size": 0, 
+    "op": 54
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 122, 
+    "sgv": 112, 
+    "date": "2016-07-31T08:38:00", 
+    "packet_size": 0, 
+    "op": 56
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 123, 
+    "sgv": 116, 
+    "date": "2016-07-31T08:33:00", 
+    "packet_size": 0, 
+    "op": 58
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 124, 
+    "sgv": 118, 
+    "date": "2016-07-31T08:28:00", 
+    "packet_size": 0, 
+    "op": 59
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 125, 
+    "sgv": 120, 
+    "date": "2016-07-31T08:23:00", 
+    "packet_size": 0, 
+    "op": 60
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 126, 
+    "sgv": 122, 
+    "date": "2016-07-31T08:18:00", 
+    "packet_size": 0, 
+    "op": 61
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 127, 
+    "sgv": 124, 
+    "date": "2016-07-31T08:13:00", 
+    "packet_size": 0, 
+    "op": 62
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 128, 
+    "sgv": 124, 
+    "date": "2016-07-31T08:08:00", 
+    "packet_size": 0, 
+    "op": 62
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 129, 
+    "sgv": 126, 
+    "date": "2016-07-31T08:03:00", 
+    "packet_size": 0, 
+    "op": 63
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 130, 
+    "sgv": 128, 
+    "date": "2016-07-31T07:58:00", 
+    "packet_size": 0, 
+    "op": 64
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 131, 
+    "sgv": 130, 
+    "date": "2016-07-31T07:53:00", 
+    "packet_size": 0, 
+    "op": 65
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 132, 
+    "sgv": 132, 
+    "date": "2016-07-31T07:48:00", 
+    "packet_size": 0, 
+    "op": 66
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 133, 
+    "sgv": 130, 
+    "date": "2016-07-31T07:43:00", 
+    "packet_size": 0, 
+    "op": 65
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 134, 
+    "sgv": 128, 
+    "date": "2016-07-31T07:38:00", 
+    "packet_size": 0, 
+    "op": 64
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 135, 
+    "sgv": 122, 
+    "date": "2016-07-31T07:33:00", 
+    "packet_size": 0, 
+    "op": 61
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 136, 
+    "sgv": 118, 
+    "date": "2016-07-31T07:28:00", 
+    "packet_size": 0, 
+    "op": 59
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 137, 
+    "sgv": 116, 
+    "date": "2016-07-31T07:23:00", 
+    "packet_size": 0, 
+    "op": 58
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 138, 
+    "sgv": 112, 
+    "date": "2016-07-31T07:18:00", 
+    "packet_size": 0, 
+    "op": 56
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 139, 
+    "sgv": 110, 
+    "date": "2016-07-31T07:13:00", 
+    "packet_size": 0, 
+    "op": 55
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 140, 
+    "sgv": 106, 
+    "date": "2016-07-31T07:08:00", 
+    "packet_size": 0, 
+    "op": 53
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 141, 
     "sgv": 100, 
     "date": "2016-07-31T07:03:00", 
     "packet_size": 0, 
@@ -19,7 +1119,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 3, 
+    "_tell": 142, 
     "sgv": 96, 
     "date": "2016-07-31T06:58:00", 
     "packet_size": 0, 
@@ -28,7 +1128,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 4, 
+    "_tell": 143, 
     "sgv": 94, 
     "date": "2016-07-31T06:53:00", 
     "packet_size": 0, 
@@ -37,7 +1137,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 5, 
+    "_tell": 144, 
     "sgv": 90, 
     "date": "2016-07-31T06:48:00", 
     "packet_size": 0, 
@@ -46,7 +1146,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 6, 
+    "_tell": 145, 
     "sgv": 86, 
     "date": "2016-07-31T06:43:00", 
     "packet_size": 0, 
@@ -55,7 +1155,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 7, 
+    "_tell": 146, 
     "sgv": 80, 
     "date": "2016-07-31T06:38:00", 
     "packet_size": 0, 
@@ -64,7 +1164,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 8, 
+    "_tell": 147, 
     "sgv": 78, 
     "date": "2016-07-31T06:33:00", 
     "packet_size": 0, 
@@ -73,7 +1173,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 9, 
+    "_tell": 148, 
     "sgv": 74, 
     "date": "2016-07-31T06:28:00", 
     "packet_size": 0, 
@@ -82,7 +1182,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 10, 
+    "_tell": 149, 
     "sgv": 68, 
     "date": "2016-07-31T06:23:00", 
     "packet_size": 0, 
@@ -91,7 +1191,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 11, 
+    "_tell": 150, 
     "sgv": 66, 
     "date": "2016-07-31T06:18:00", 
     "packet_size": 0, 
@@ -102,13 +1202,13 @@
     "name": "19-Something", 
     "date": "2016-07-31T06:13:00", 
     "date_type": "prevTimestamp", 
-    "_tell": 12, 
+    "_tell": 151, 
     "op": "0x13"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 13, 
+    "_tell": 152, 
     "sgv": 66, 
     "date": "2016-07-31T06:13:00", 
     "packet_size": 0, 
@@ -117,7 +1217,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 14, 
+    "_tell": 153, 
     "sgv": 66, 
     "date": "2016-07-31T06:08:00", 
     "packet_size": 0, 
@@ -126,7 +1226,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 15, 
+    "_tell": 154, 
     "sgv": 64, 
     "date": "2016-07-31T06:03:00", 
     "packet_size": 0, 
@@ -135,7 +1235,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 16, 
+    "_tell": 155, 
     "sgv": 62, 
     "date": "2016-07-31T05:58:00", 
     "packet_size": 0, 
@@ -146,13 +1246,13 @@
     "name": "19-Something", 
     "date": "2016-07-31T05:53:00", 
     "date_type": "prevTimestamp", 
-    "_tell": 17, 
+    "_tell": 156, 
     "op": "0x13"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 18, 
+    "_tell": 157, 
     "sgv": 62, 
     "date": "2016-07-31T05:53:00", 
     "packet_size": 0, 
@@ -161,7 +1261,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 19, 
+    "_tell": 158, 
     "sgv": 60, 
     "date": "2016-07-31T05:48:00", 
     "packet_size": 0, 
@@ -170,7 +1270,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 20, 
+    "_tell": 159, 
     "sgv": 62, 
     "date": "2016-07-31T05:43:00", 
     "packet_size": 0, 
@@ -179,7 +1279,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 21, 
+    "_tell": 160, 
     "sgv": 62, 
     "date": "2016-07-31T05:38:00", 
     "packet_size": 0, 
@@ -188,7 +1288,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 22, 
+    "_tell": 161, 
     "sgv": 60, 
     "date": "2016-07-31T05:33:00", 
     "packet_size": 0, 
@@ -197,7 +1297,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 23, 
+    "_tell": 162, 
     "sgv": 58, 
     "date": "2016-07-31T05:28:00", 
     "packet_size": 0, 
@@ -206,7 +1306,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 24, 
+    "_tell": 163, 
     "sgv": 58, 
     "date": "2016-07-31T05:23:00", 
     "packet_size": 0, 
@@ -215,7 +1315,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 25, 
+    "_tell": 164, 
     "sgv": 60, 
     "date": "2016-07-31T05:18:00", 
     "packet_size": 0, 
@@ -224,7 +1324,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 26, 
+    "_tell": 165, 
     "sgv": 58, 
     "date": "2016-07-31T05:13:00", 
     "packet_size": 0, 
@@ -233,7 +1333,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 27, 
+    "_tell": 166, 
     "sgv": 58, 
     "date": "2016-07-31T05:08:00", 
     "packet_size": 0, 
@@ -242,7 +1342,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 28, 
+    "_tell": 167, 
     "sgv": 60, 
     "date": "2016-07-31T05:03:00", 
     "packet_size": 0, 
@@ -251,7 +1351,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 29, 
+    "_tell": 168, 
     "sgv": 56, 
     "date": "2016-07-31T04:58:00", 
     "packet_size": 0, 
@@ -260,7 +1360,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 30, 
+    "_tell": 169, 
     "sgv": 48, 
     "date": "2016-07-31T04:53:00", 
     "packet_size": 0, 
@@ -269,7 +1369,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 31, 
+    "_tell": 170, 
     "sgv": 46, 
     "date": "2016-07-31T04:48:00", 
     "packet_size": 0, 
@@ -278,7 +1378,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 32, 
+    "_tell": 171, 
     "sgv": 44, 
     "date": "2016-07-31T04:43:00", 
     "packet_size": 0, 
@@ -287,7 +1387,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 33, 
+    "_tell": 172, 
     "sgv": 46, 
     "date": "2016-07-31T04:38:00", 
     "packet_size": 0, 
@@ -296,7 +1396,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 34, 
+    "_tell": 173, 
     "sgv": 50, 
     "date": "2016-07-31T04:33:00", 
     "packet_size": 0, 
@@ -305,7 +1405,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 35, 
+    "_tell": 174, 
     "sgv": 54, 
     "date": "2016-07-31T04:28:00", 
     "packet_size": 0, 
@@ -314,7 +1414,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 36, 
+    "_tell": 175, 
     "sgv": 60, 
     "date": "2016-07-31T04:23:00", 
     "packet_size": 0, 
@@ -323,7 +1423,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 37, 
+    "_tell": 176, 
     "sgv": 64, 
     "date": "2016-07-31T04:18:00", 
     "packet_size": 0, 
@@ -332,7 +1432,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 38, 
+    "_tell": 177, 
     "sgv": 72, 
     "date": "2016-07-31T04:13:00", 
     "packet_size": 0, 
@@ -341,7 +1441,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 39, 
+    "_tell": 178, 
     "sgv": 78, 
     "date": "2016-07-31T04:08:00", 
     "packet_size": 0, 
@@ -350,7 +1450,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 40, 
+    "_tell": 179, 
     "sgv": 88, 
     "date": "2016-07-31T04:03:00", 
     "packet_size": 0, 
@@ -359,7 +1459,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 41, 
+    "_tell": 180, 
     "sgv": 96, 
     "date": "2016-07-31T03:58:00", 
     "packet_size": 0, 
@@ -368,7 +1468,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 42, 
+    "_tell": 181, 
     "sgv": 104, 
     "date": "2016-07-31T03:53:00", 
     "packet_size": 0, 
@@ -377,7 +1477,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 43, 
+    "_tell": 182, 
     "sgv": 114, 
     "date": "2016-07-31T03:48:00", 
     "packet_size": 0, 
@@ -386,7 +1486,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 44, 
+    "_tell": 183, 
     "sgv": 120, 
     "date": "2016-07-31T03:43:00", 
     "packet_size": 0, 
@@ -395,7 +1495,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 45, 
+    "_tell": 184, 
     "sgv": 126, 
     "date": "2016-07-31T03:38:00", 
     "packet_size": 0, 
@@ -404,7 +1504,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 46, 
+    "_tell": 185, 
     "sgv": 130, 
     "date": "2016-07-31T03:33:00", 
     "packet_size": 0, 
@@ -413,7 +1513,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 47, 
+    "_tell": 186, 
     "sgv": 132, 
     "date": "2016-07-31T03:28:00", 
     "packet_size": 0, 
@@ -422,7 +1522,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 48, 
+    "_tell": 187, 
     "sgv": 136, 
     "date": "2016-07-31T03:23:00", 
     "packet_size": 0, 
@@ -431,7 +1531,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 49, 
+    "_tell": 188, 
     "sgv": 136, 
     "date": "2016-07-31T03:18:00", 
     "packet_size": 0, 
@@ -440,7 +1540,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 50, 
+    "_tell": 189, 
     "sgv": 138, 
     "date": "2016-07-31T03:13:00", 
     "packet_size": 0, 
@@ -449,7 +1549,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 51, 
+    "_tell": 190, 
     "sgv": 138, 
     "date": "2016-07-31T03:08:00", 
     "packet_size": 0, 
@@ -461,7 +1561,7 @@
     "raw": "43-c3-1f-10", 
     "date": "2016-07-31T03:03:00", 
     "date_type": "minSpecific", 
-    "_tell": 52, 
+    "_tell": 191, 
     "op": "0x10"
   }, 
   {
@@ -469,13 +1569,13 @@
     "name": "DataEnd", 
     "date": "2016-07-31T03:19:00", 
     "date_type": "none", 
-    "_tell": 57, 
+    "_tell": 196, 
     "op": "0x01"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 58, 
+    "_tell": 197, 
     "sgv": 0, 
     "date": "2016-07-31T03:14:00", 
     "packet_size": 0, 
@@ -484,7 +1584,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 59, 
+    "_tell": 198, 
     "sgv": 0, 
     "date": "2016-07-31T03:09:00", 
     "packet_size": 0, 
@@ -493,7 +1593,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 60, 
+    "_tell": 199, 
     "sgv": 138, 
     "date": "2016-07-31T03:04:00", 
     "packet_size": 0, 
@@ -502,7 +1602,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 61, 
+    "_tell": 200, 
     "sgv": 136, 
     "date": "2016-07-31T02:59:00", 
     "packet_size": 0, 
@@ -511,7 +1611,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 62, 
+    "_tell": 201, 
     "sgv": 134, 
     "date": "2016-07-31T02:54:00", 
     "packet_size": 0, 
@@ -520,7 +1620,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 63, 
+    "_tell": 202, 
     "sgv": 130, 
     "date": "2016-07-31T02:49:00", 
     "packet_size": 0, 
@@ -529,7 +1629,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 64, 
+    "_tell": 203, 
     "sgv": 126, 
     "date": "2016-07-31T02:44:00", 
     "packet_size": 0, 
@@ -538,7 +1638,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 65, 
+    "_tell": 204, 
     "sgv": 122, 
     "date": "2016-07-31T02:39:00", 
     "packet_size": 0, 
@@ -547,7 +1647,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 66, 
+    "_tell": 205, 
     "sgv": 118, 
     "date": "2016-07-31T02:34:00", 
     "packet_size": 0, 
@@ -556,7 +1656,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 67, 
+    "_tell": 206, 
     "sgv": 112, 
     "date": "2016-07-31T02:29:00", 
     "packet_size": 0, 
@@ -565,7 +1665,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 68, 
+    "_tell": 207, 
     "sgv": 106, 
     "date": "2016-07-31T02:24:00", 
     "packet_size": 0, 
@@ -574,7 +1674,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 69, 
+    "_tell": 208, 
     "sgv": 98, 
     "date": "2016-07-31T02:19:00", 
     "packet_size": 0, 
@@ -583,7 +1683,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 70, 
+    "_tell": 209, 
     "sgv": 94, 
     "date": "2016-07-31T02:14:00", 
     "packet_size": 0, 
@@ -592,7 +1692,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 71, 
+    "_tell": 210, 
     "sgv": 88, 
     "date": "2016-07-31T02:09:00", 
     "packet_size": 0, 
@@ -601,7 +1701,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 72, 
+    "_tell": 211, 
     "sgv": 82, 
     "date": "2016-07-31T02:04:00", 
     "packet_size": 0, 
@@ -610,7 +1710,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 73, 
+    "_tell": 212, 
     "sgv": 76, 
     "date": "2016-07-31T01:59:00", 
     "packet_size": 0, 
@@ -623,7 +1723,7 @@
     "date": "2016-07-31T01:54:00", 
     "factor": 3.666, 
     "date_type": "minSpecific", 
-    "_tell": 74, 
+    "_tell": 213, 
     "op": "0x0f"
   }, 
   {
@@ -634,13 +1734,13 @@
     "raw": "41-e8-1f-10-43", 
     "date": "2016-07-31T01:40:00", 
     "date_type": "minSpecific", 
-    "_tell": 84, 
+    "_tell": 223, 
     "op": "0x0e"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 81, 
+    "_tell": 220, 
     "sgv": 72, 
     "date": "2016-07-31T01:53:00", 
     "packet_size": 0, 
@@ -649,7 +1749,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 82, 
+    "_tell": 221, 
     "sgv": 78, 
     "date": "2016-07-31T01:48:00", 
     "packet_size": 0, 
@@ -658,7 +1758,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 83, 
+    "_tell": 222, 
     "sgv": 76, 
     "date": "2016-07-31T01:43:00", 
     "packet_size": 0, 
@@ -667,7 +1767,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 90, 
+    "_tell": 229, 
     "sgv": 72, 
     "date": "2016-07-31T01:38:00", 
     "packet_size": 0, 
@@ -676,7 +1776,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 91, 
+    "_tell": 230, 
     "sgv": 72, 
     "date": "2016-07-31T01:33:00", 
     "packet_size": 0, 
@@ -685,7 +1785,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 92, 
+    "_tell": 231, 
     "sgv": 74, 
     "date": "2016-07-31T01:28:00", 
     "packet_size": 0, 
@@ -694,7 +1794,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 93, 
+    "_tell": 232, 
     "sgv": 76, 
     "date": "2016-07-31T01:23:00", 
     "packet_size": 0, 
@@ -703,7 +1803,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 94, 
+    "_tell": 233, 
     "sgv": 80, 
     "date": "2016-07-31T01:18:00", 
     "packet_size": 0, 
@@ -712,7 +1812,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 95, 
+    "_tell": 234, 
     "sgv": 84, 
     "date": "2016-07-31T01:13:00", 
     "packet_size": 0, 
@@ -721,7 +1821,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 96, 
+    "_tell": 235, 
     "sgv": 86, 
     "date": "2016-07-31T01:08:00", 
     "packet_size": 0, 
@@ -730,7 +1830,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 97, 
+    "_tell": 236, 
     "sgv": 88, 
     "date": "2016-07-31T01:03:00", 
     "packet_size": 0, 
@@ -739,7 +1839,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 98, 
+    "_tell": 237, 
     "sgv": 88, 
     "date": "2016-07-31T00:58:00", 
     "packet_size": 0, 
@@ -748,7 +1848,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 99, 
+    "_tell": 238, 
     "sgv": 90, 
     "date": "2016-07-31T00:53:00", 
     "packet_size": 0, 
@@ -757,7 +1857,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 100, 
+    "_tell": 239, 
     "sgv": 92, 
     "date": "2016-07-31T00:48:00", 
     "packet_size": 0, 
@@ -766,7 +1866,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 101, 
+    "_tell": 240, 
     "sgv": 94, 
     "date": "2016-07-31T00:43:00", 
     "packet_size": 0, 
@@ -775,7 +1875,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 102, 
+    "_tell": 241, 
     "sgv": 96, 
     "date": "2016-07-31T00:38:00", 
     "packet_size": 0, 
@@ -784,7 +1884,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 103, 
+    "_tell": 242, 
     "sgv": 96, 
     "date": "2016-07-31T00:33:00", 
     "packet_size": 0, 
@@ -793,7 +1893,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 104, 
+    "_tell": 243, 
     "sgv": 96, 
     "date": "2016-07-31T00:28:00", 
     "packet_size": 0, 
@@ -802,7 +1902,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 105, 
+    "_tell": 244, 
     "sgv": 96, 
     "date": "2016-07-31T00:23:00", 
     "packet_size": 0, 
@@ -811,7 +1911,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 106, 
+    "_tell": 245, 
     "sgv": 96, 
     "date": "2016-07-31T00:18:00", 
     "packet_size": 0, 
@@ -820,7 +1920,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 107, 
+    "_tell": 246, 
     "sgv": 92, 
     "date": "2016-07-31T00:13:00", 
     "packet_size": 0, 
@@ -829,7 +1929,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 108, 
+    "_tell": 247, 
     "sgv": 90, 
     "date": "2016-07-31T00:08:00", 
     "packet_size": 0, 
@@ -838,7 +1938,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 109, 
+    "_tell": 248, 
     "sgv": 92, 
     "date": "2016-07-31T00:03:00", 
     "packet_size": 0, 
@@ -847,7 +1947,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 110, 
+    "_tell": 249, 
     "sgv": 92, 
     "date": "2016-07-30T23:58:00", 
     "packet_size": 0, 
@@ -856,7 +1956,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 111, 
+    "_tell": 250, 
     "sgv": 94, 
     "date": "2016-07-30T23:53:00", 
     "packet_size": 0, 
@@ -865,7 +1965,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 112, 
+    "_tell": 251, 
     "sgv": 94, 
     "date": "2016-07-30T23:48:00", 
     "packet_size": 0, 
@@ -874,7 +1974,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 113, 
+    "_tell": 252, 
     "sgv": 94, 
     "date": "2016-07-30T23:43:00", 
     "packet_size": 0, 
@@ -883,7 +1983,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 114, 
+    "_tell": 253, 
     "sgv": 94, 
     "date": "2016-07-30T23:38:00", 
     "packet_size": 0, 
@@ -892,7 +1992,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 115, 
+    "_tell": 254, 
     "sgv": 90, 
     "date": "2016-07-30T23:33:00", 
     "packet_size": 0, 
@@ -901,7 +2001,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 116, 
+    "_tell": 255, 
     "sgv": 86, 
     "date": "2016-07-30T23:28:00", 
     "packet_size": 0, 
@@ -910,7 +2010,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 117, 
+    "_tell": 256, 
     "sgv": 84, 
     "date": "2016-07-30T23:23:00", 
     "packet_size": 0, 
@@ -919,7 +2019,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 118, 
+    "_tell": 257, 
     "sgv": 82, 
     "date": "2016-07-30T23:18:00", 
     "packet_size": 0, 
@@ -928,7 +2028,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 119, 
+    "_tell": 258, 
     "sgv": 78, 
     "date": "2016-07-30T23:13:00", 
     "packet_size": 0, 
@@ -937,7 +2037,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 120, 
+    "_tell": 259, 
     "sgv": 76, 
     "date": "2016-07-30T23:08:00", 
     "packet_size": 0, 
@@ -946,7 +2046,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 121, 
+    "_tell": 260, 
     "sgv": 72, 
     "date": "2016-07-30T23:03:00", 
     "packet_size": 0, 
@@ -955,7 +2055,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 122, 
+    "_tell": 261, 
     "sgv": 70, 
     "date": "2016-07-30T22:58:00", 
     "packet_size": 0, 
@@ -964,7 +2064,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 123, 
+    "_tell": 262, 
     "sgv": 70, 
     "date": "2016-07-30T22:53:00", 
     "packet_size": 0, 
@@ -973,7 +2073,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 124, 
+    "_tell": 263, 
     "sgv": 72, 
     "date": "2016-07-30T22:48:00", 
     "packet_size": 0, 
@@ -982,7 +2082,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 125, 
+    "_tell": 264, 
     "sgv": 72, 
     "date": "2016-07-30T22:43:00", 
     "packet_size": 0, 
@@ -991,7 +2091,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 126, 
+    "_tell": 265, 
     "sgv": 76, 
     "date": "2016-07-30T22:38:00", 
     "packet_size": 0, 
@@ -1000,7 +2100,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 127, 
+    "_tell": 266, 
     "sgv": 78, 
     "date": "2016-07-30T22:33:00", 
     "packet_size": 0, 
@@ -1009,7 +2109,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 128, 
+    "_tell": 267, 
     "sgv": 78, 
     "date": "2016-07-30T22:28:00", 
     "packet_size": 0, 
@@ -1018,7 +2118,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 129, 
+    "_tell": 268, 
     "sgv": 74, 
     "date": "2016-07-30T22:23:00", 
     "packet_size": 0, 
@@ -1027,7 +2127,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 130, 
+    "_tell": 269, 
     "sgv": 72, 
     "date": "2016-07-30T22:18:00", 
     "packet_size": 0, 
@@ -1036,7 +2136,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 131, 
+    "_tell": 270, 
     "sgv": 72, 
     "date": "2016-07-30T22:13:00", 
     "packet_size": 0, 
@@ -1045,7 +2145,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 132, 
+    "_tell": 271, 
     "sgv": 72, 
     "date": "2016-07-30T22:08:00", 
     "packet_size": 0, 
@@ -1054,7 +2154,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 133, 
+    "_tell": 272, 
     "sgv": 72, 
     "date": "2016-07-30T22:03:00", 
     "packet_size": 0, 
@@ -1063,7 +2163,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 134, 
+    "_tell": 273, 
     "sgv": 74, 
     "date": "2016-07-30T21:58:00", 
     "packet_size": 0, 
@@ -1072,7 +2172,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 135, 
+    "_tell": 274, 
     "sgv": 82, 
     "date": "2016-07-30T21:53:00", 
     "packet_size": 0, 
@@ -1081,7 +2181,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 136, 
+    "_tell": 275, 
     "sgv": 92, 
     "date": "2016-07-30T21:48:00", 
     "packet_size": 0, 
@@ -1090,7 +2190,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 137, 
+    "_tell": 276, 
     "sgv": 100, 
     "date": "2016-07-30T21:43:00", 
     "packet_size": 0, 
@@ -1099,7 +2199,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 138, 
+    "_tell": 277, 
     "sgv": 112, 
     "date": "2016-07-30T21:38:00", 
     "packet_size": 0, 
@@ -1108,7 +2208,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 139, 
+    "_tell": 278, 
     "sgv": 120, 
     "date": "2016-07-30T21:33:00", 
     "packet_size": 0, 
@@ -1117,7 +2217,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 140, 
+    "_tell": 279, 
     "sgv": 124, 
     "date": "2016-07-30T21:28:00", 
     "packet_size": 0, 
@@ -1126,7 +2226,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 141, 
+    "_tell": 280, 
     "sgv": 130, 
     "date": "2016-07-30T21:23:00", 
     "packet_size": 0, 
@@ -1135,7 +2235,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 142, 
+    "_tell": 281, 
     "sgv": 128, 
     "date": "2016-07-30T21:18:00", 
     "packet_size": 0, 
@@ -1144,7 +2244,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 143, 
+    "_tell": 282, 
     "sgv": 128, 
     "date": "2016-07-30T21:13:00", 
     "packet_size": 0, 
@@ -1153,7 +2253,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 144, 
+    "_tell": 283, 
     "sgv": 132, 
     "date": "2016-07-30T21:08:00", 
     "packet_size": 0, 
@@ -1162,7 +2262,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 145, 
+    "_tell": 284, 
     "sgv": 134, 
     "date": "2016-07-30T21:03:00", 
     "packet_size": 0, 
@@ -1173,7 +2273,7 @@
     "name": "19-Something", 
     "date": "2016-07-30T20:58:00", 
     "date_type": "prevTimestamp", 
-    "_tell": 146, 
+    "_tell": 285, 
     "op": "0x13"
   }, 
   {
@@ -1182,7 +2282,7 @@
     "raw": "54-fa-1e-10", 
     "date": "2016-07-30T20:58:00", 
     "date_type": "minSpecific", 
-    "_tell": 147, 
+    "_tell": 286, 
     "op": "0x10"
   }, 
   {
@@ -1190,13 +2290,13 @@
     "name": "DataEnd", 
     "date": "2016-07-30T21:17:00", 
     "date_type": "none", 
-    "_tell": 152, 
+    "_tell": 291, 
     "op": "0x01"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 153, 
+    "_tell": 292, 
     "sgv": 0, 
     "date": "2016-07-30T21:12:00", 
     "packet_size": 0, 
@@ -1205,7 +2305,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 154, 
+    "_tell": 293, 
     "sgv": 0, 
     "date": "2016-07-30T21:07:00", 
     "packet_size": 0, 
@@ -1214,7 +2314,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 155, 
+    "_tell": 294, 
     "sgv": 138, 
     "date": "2016-07-30T21:02:00", 
     "packet_size": 0, 
@@ -1223,7 +2323,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 156, 
+    "_tell": 295, 
     "sgv": 142, 
     "date": "2016-07-30T20:57:00", 
     "packet_size": 0, 
@@ -1232,7 +2332,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 157, 
+    "_tell": 296, 
     "sgv": 146, 
     "date": "2016-07-30T20:52:00", 
     "packet_size": 0, 
@@ -1241,7 +2341,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 158, 
+    "_tell": 297, 
     "sgv": 152, 
     "date": "2016-07-30T20:47:00", 
     "packet_size": 0, 
@@ -1250,7 +2350,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 159, 
+    "_tell": 298, 
     "sgv": 154, 
     "date": "2016-07-30T20:42:00", 
     "packet_size": 0, 
@@ -1262,7 +2362,7 @@
     "raw": "54-e5-1e-10", 
     "date": "2016-07-30T20:37:00", 
     "date_type": "minSpecific", 
-    "_tell": 160, 
+    "_tell": 299, 
     "op": "0x10"
   }, 
   {
@@ -1270,13 +2370,13 @@
     "name": "DataEnd", 
     "date": "2016-07-30T20:51:00", 
     "date_type": "none", 
-    "_tell": 165, 
+    "_tell": 304, 
     "op": "0x01"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 166, 
+    "_tell": 305, 
     "sgv": 0, 
     "date": "2016-07-30T20:46:00", 
     "packet_size": 0, 
@@ -1285,7 +2385,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 167, 
+    "_tell": 306, 
     "sgv": 0, 
     "date": "2016-07-30T20:41:00", 
     "packet_size": 0, 
@@ -1294,7 +2394,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 168, 
+    "_tell": 307, 
     "sgv": 154, 
     "date": "2016-07-30T20:36:00", 
     "packet_size": 0, 
@@ -1303,7 +2403,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 169, 
+    "_tell": 308, 
     "sgv": 152, 
     "date": "2016-07-30T20:31:00", 
     "packet_size": 0, 
@@ -1312,7 +2412,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 170, 
+    "_tell": 309, 
     "sgv": 150, 
     "date": "2016-07-30T20:26:00", 
     "packet_size": 0, 
@@ -1324,7 +2424,7 @@
     "raw": "54-d5-1e-10", 
     "date": "2016-07-30T20:21:00", 
     "date_type": "minSpecific", 
-    "_tell": 171, 
+    "_tell": 310, 
     "op": "0x10"
   }, 
   {
@@ -1332,13 +2432,13 @@
     "name": "DataEnd", 
     "date": "2016-07-30T20:37:00", 
     "date_type": "none", 
-    "_tell": 176, 
+    "_tell": 315, 
     "op": "0x01"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 177, 
+    "_tell": 316, 
     "sgv": 0, 
     "date": "2016-07-30T20:32:00", 
     "packet_size": 0, 
@@ -1347,7 +2447,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 178, 
+    "_tell": 317, 
     "sgv": 0, 
     "date": "2016-07-30T20:27:00", 
     "packet_size": 0, 
@@ -1356,7 +2456,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 179, 
+    "_tell": 318, 
     "sgv": 146, 
     "date": "2016-07-30T20:22:00", 
     "packet_size": 0, 
@@ -1368,7 +2468,7 @@
     "raw": "54-d1-1e-10", 
     "date": "2016-07-30T20:17:00", 
     "date_type": "minSpecific", 
-    "_tell": 180, 
+    "_tell": 319, 
     "op": "0x10"
   }, 
   {
@@ -1376,13 +2476,13 @@
     "name": "DataEnd", 
     "date": "2016-07-30T20:28:00", 
     "date_type": "none", 
-    "_tell": 185, 
+    "_tell": 324, 
     "op": "0x01"
   }, 
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 186, 
+    "_tell": 325, 
     "sgv": 0, 
     "date": "2016-07-30T20:23:00", 
     "packet_size": 0, 
@@ -1391,7 +2491,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 187, 
+    "_tell": 326, 
     "sgv": 0, 
     "date": "2016-07-30T20:18:00", 
     "packet_size": 0, 
@@ -1400,7 +2500,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 188, 
+    "_tell": 327, 
     "sgv": 134, 
     "date": "2016-07-30T20:13:00", 
     "packet_size": 0, 
@@ -1409,7 +2509,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 189, 
+    "_tell": 328, 
     "sgv": 126, 
     "date": "2016-07-30T20:08:00", 
     "packet_size": 0, 
@@ -1418,7 +2518,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 190, 
+    "_tell": 329, 
     "sgv": 120, 
     "date": "2016-07-30T20:03:00", 
     "packet_size": 0, 
@@ -1427,7 +2527,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 191, 
+    "_tell": 330, 
     "sgv": 114, 
     "date": "2016-07-30T19:58:00", 
     "packet_size": 0, 
@@ -1436,7 +2536,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 192, 
+    "_tell": 331, 
     "sgv": 108, 
     "date": "2016-07-30T19:53:00", 
     "packet_size": 0, 
@@ -1445,7 +2545,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 193, 
+    "_tell": 332, 
     "sgv": 104, 
     "date": "2016-07-30T19:48:00", 
     "packet_size": 0, 
@@ -1454,7 +2554,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 194, 
+    "_tell": 333, 
     "sgv": 100, 
     "date": "2016-07-30T19:43:00", 
     "packet_size": 0, 
@@ -1463,7 +2563,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 195, 
+    "_tell": 334, 
     "sgv": 94, 
     "date": "2016-07-30T19:38:00", 
     "packet_size": 0, 
@@ -1472,1134 +2572,10 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 196, 
+    "_tell": 335, 
     "sgv": 92, 
     "date": "2016-07-30T19:33:00", 
     "packet_size": 0, 
     "op": 46
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 197, 
-    "sgv": 94, 
-    "date": "2016-07-30T19:28:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 198, 
-    "sgv": 94, 
-    "date": "2016-07-30T19:23:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 199, 
-    "sgv": 94, 
-    "date": "2016-07-30T19:18:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 200, 
-    "sgv": 94, 
-    "date": "2016-07-30T19:13:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 201, 
-    "sgv": 94, 
-    "date": "2016-07-30T19:08:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 202, 
-    "sgv": 92, 
-    "date": "2016-07-30T19:03:00", 
-    "packet_size": 0, 
-    "op": 46
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 203, 
-    "sgv": 90, 
-    "date": "2016-07-30T18:58:00", 
-    "packet_size": 0, 
-    "op": 45
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 204, 
-    "sgv": 88, 
-    "date": "2016-07-30T18:53:00", 
-    "packet_size": 0, 
-    "op": 44
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 205, 
-    "sgv": 86, 
-    "date": "2016-07-30T18:48:00", 
-    "packet_size": 0, 
-    "op": 43
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 206, 
-    "sgv": 82, 
-    "date": "2016-07-30T18:43:00", 
-    "packet_size": 0, 
-    "op": 41
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 207, 
-    "sgv": 76, 
-    "date": "2016-07-30T18:38:00", 
-    "packet_size": 0, 
-    "op": 38
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 208, 
-    "sgv": 72, 
-    "date": "2016-07-30T18:33:00", 
-    "packet_size": 0, 
-    "op": 36
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 209, 
-    "sgv": 70, 
-    "date": "2016-07-30T18:28:00", 
-    "packet_size": 0, 
-    "op": 35
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 210, 
-    "sgv": 72, 
-    "date": "2016-07-30T18:23:00", 
-    "packet_size": 0, 
-    "op": 36
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 211, 
-    "sgv": 76, 
-    "date": "2016-07-30T18:18:00", 
-    "packet_size": 0, 
-    "op": 38
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 212, 
-    "sgv": 72, 
-    "date": "2016-07-30T18:13:00", 
-    "packet_size": 0, 
-    "op": 36
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 213, 
-    "sgv": 62, 
-    "date": "2016-07-30T18:08:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 214, 
-    "sgv": 52, 
-    "date": "2016-07-30T18:03:00", 
-    "packet_size": 0, 
-    "op": 26
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 215, 
-    "sgv": 44, 
-    "date": "2016-07-30T17:58:00", 
-    "packet_size": 0, 
-    "op": 22
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 216, 
-    "sgv": 44, 
-    "date": "2016-07-30T17:53:00", 
-    "packet_size": 0, 
-    "op": 22
-  }, 
-  {
-    "packet_size": 6, 
-    "name": "SensorCalFactor", 
-    "raw": "51-f0-1e-10-10-13", 
-    "date": "2016-07-30T17:48:00", 
-    "factor": 4.115, 
-    "date_type": "minSpecific", 
-    "_tell": 217, 
-    "op": "0x0f"
-  }, 
-  {
-    "body": "41", 
-    "packet_size": 5, 
-    "amount": 65, 
-    "name": "CalBGForGH", 
-    "raw": "51-e0-1e-10-41", 
-    "date": "2016-07-30T17:32:00", 
-    "date_type": "minSpecific", 
-    "_tell": 228, 
-    "op": "0x0e"
-  }, 
-  {
-    "body": "41", 
-    "packet_size": 5, 
-    "amount": 65, 
-    "name": "CalBGForGH", 
-    "raw": "51-de-1e-10-41", 
-    "date": "2016-07-30T17:30:00", 
-    "date_type": "minSpecific", 
-    "_tell": 234, 
-    "op": "0x0e"
-  }, 
-  {
-    "body": "6c", 
-    "packet_size": 5, 
-    "amount": 108, 
-    "name": "CalBGForGH", 
-    "raw": "51-da-1e-10-6c", 
-    "date": "2016-07-30T17:26:00", 
-    "date_type": "minSpecific", 
-    "_tell": 241, 
-    "op": "0x0e"
-  }, 
-  {
-    "body": "", 
-    "packet_size": 4, 
-    "name": "SensorSync", 
-    "raw": "50-f9-1e-10", 
-    "date": "2016-07-30T16:57:00", 
-    "date_type": "minSpecific", 
-    "_tell": 253, 
-    "op": "0x0d"
-  }, 
-  {
-    "body": "", 
-    "packet_size": 4, 
-    "name": "BatteryChange", 
-    "raw": "50-f9-3e-10", 
-    "date": "2016-07-30T16:57:00", 
-    "date_type": "minSpecific", 
-    "_tell": 258, 
-    "op": "0x0a"
-  }, 
-  {
-    "body": "", 
-    "packet_size": 4, 
-    "name": "BatteryChange", 
-    "raw": "50-f9-1e-10", 
-    "date": "2016-07-30T16:57:00", 
-    "date_type": "minSpecific", 
-    "_tell": 263, 
-    "op": "0x0a"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 224, 
-    "sgv": 44, 
-    "date": "2016-07-30T17:47:00", 
-    "packet_size": 0, 
-    "op": 22
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 225, 
-    "sgv": 40, 
-    "date": "2016-07-30T17:42:00", 
-    "packet_size": 0, 
-    "op": 20
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 226, 
-    "sgv": 44, 
-    "date": "2016-07-30T17:37:00", 
-    "packet_size": 0, 
-    "op": 22
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 227, 
-    "sgv": 50, 
-    "date": "2016-07-30T17:32:00", 
-    "packet_size": 0, 
-    "op": 25
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 240, 
-    "sgv": 58, 
-    "date": "2016-07-30T17:27:00", 
-    "packet_size": 0, 
-    "op": 29
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 247, 
-    "sgv": 66, 
-    "date": "2016-07-30T17:22:00", 
-    "packet_size": 0, 
-    "op": 33
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 248, 
-    "sgv": 74, 
-    "date": "2016-07-30T17:17:00", 
-    "packet_size": 0, 
-    "op": 37
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 249, 
-    "sgv": 82, 
-    "date": "2016-07-30T17:12:00", 
-    "packet_size": 0, 
-    "op": 41
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 250, 
-    "sgv": 90, 
-    "date": "2016-07-30T17:07:00", 
-    "packet_size": 0, 
-    "op": 45
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 251, 
-    "sgv": 100, 
-    "date": "2016-07-30T17:02:00", 
-    "packet_size": 0, 
-    "op": 50
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 252, 
-    "sgv": 120, 
-    "date": "2016-07-30T16:57:00", 
-    "packet_size": 0, 
-    "op": 60
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "SensorTimestamp", 
-    "raw": "50-f4-5e-10", 
-    "date": "2016-07-30T16:52:00", 
-    "date_type": "minSpecific", 
-    "_tell": 268, 
-    "op": "0x08"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 273, 
-    "sgv": 132, 
-    "date": "2016-07-30T16:58:00", 
-    "packet_size": 0, 
-    "op": 66
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 274, 
-    "sgv": 144, 
-    "date": "2016-07-30T16:53:00", 
-    "packet_size": 0, 
-    "op": 72
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 275, 
-    "sgv": 148, 
-    "date": "2016-07-30T16:48:00", 
-    "packet_size": 0, 
-    "op": 74
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "10-Something", 
-    "raw": "50-eb-1e-10", 
-    "date": "2016-07-30T16:43:00", 
-    "date_type": "minSpecific", 
-    "_tell": 276, 
-    "op": "0x10"
-  }, 
-  {
-    "packet_size": 0, 
-    "name": "DataEnd", 
-    "date": "2016-07-30T16:54:00", 
-    "date_type": "none", 
-    "_tell": 281, 
-    "op": "0x01"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 282, 
-    "sgv": 0, 
-    "date": "2016-07-30T16:49:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 283, 
-    "sgv": 0, 
-    "date": "2016-07-30T16:44:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 284, 
-    "sgv": 158, 
-    "date": "2016-07-30T16:39:00", 
-    "packet_size": 0, 
-    "op": 79
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 285, 
-    "sgv": 166, 
-    "date": "2016-07-30T16:34:00", 
-    "packet_size": 0, 
-    "op": 83
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 286, 
-    "sgv": 170, 
-    "date": "2016-07-30T16:29:00", 
-    "packet_size": 0, 
-    "op": 85
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 287, 
-    "sgv": 174, 
-    "date": "2016-07-30T16:24:00", 
-    "packet_size": 0, 
-    "op": 87
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 288, 
-    "sgv": 176, 
-    "date": "2016-07-30T16:19:00", 
-    "packet_size": 0, 
-    "op": 88
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 289, 
-    "sgv": 178, 
-    "date": "2016-07-30T16:14:00", 
-    "packet_size": 0, 
-    "op": 89
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "10-Something", 
-    "raw": "50-c9-1e-10", 
-    "date": "2016-07-30T16:09:00", 
-    "date_type": "minSpecific", 
-    "_tell": 290, 
-    "op": "0x10"
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "SensorTimestamp", 
-    "raw": "4f-ef-3e-10", 
-    "date": "2016-07-30T15:47:00", 
-    "date_type": "minSpecific", 
-    "_tell": 1, 
-    "op": "0x08"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 6, 
-    "sgv": 148, 
-    "date": "2016-07-30T15:53:00", 
-    "packet_size": 0, 
-    "op": 74
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "10-Something", 
-    "raw": "4f-f0-1e-10", 
-    "date": "2016-07-30T15:48:00", 
-    "date_type": "minSpecific", 
-    "_tell": 7, 
-    "op": "0x10"
-  }, 
-  {
-    "packet_size": 0, 
-    "name": "DataEnd", 
-    "date": "2016-07-30T16:02:00", 
-    "date_type": "none", 
-    "_tell": 12, 
-    "op": "0x01"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 13, 
-    "sgv": 0, 
-    "date": "2016-07-30T15:57:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 14, 
-    "sgv": 0, 
-    "date": "2016-07-30T15:52:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 15, 
-    "sgv": 138, 
-    "date": "2016-07-30T15:47:00", 
-    "packet_size": 0, 
-    "op": 69
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "10-Something", 
-    "raw": "4f-ea-1e-10", 
-    "date": "2016-07-30T15:42:00", 
-    "date_type": "minSpecific", 
-    "_tell": 16, 
-    "op": "0x10"
-  }, 
-  {
-    "packet_size": 0, 
-    "name": "DataEnd", 
-    "date": "2016-07-30T15:56:00", 
-    "date_type": "none", 
-    "_tell": 21, 
-    "op": "0x01"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 22, 
-    "sgv": 0, 
-    "date": "2016-07-30T15:51:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 23, 
-    "sgv": 0, 
-    "date": "2016-07-30T15:46:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 24, 
-    "sgv": 128, 
-    "date": "2016-07-30T15:41:00", 
-    "packet_size": 0, 
-    "op": 64
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "10-Something", 
-    "raw": "4f-e4-1e-10", 
-    "date": "2016-07-30T15:36:00", 
-    "date_type": "minSpecific", 
-    "_tell": 25, 
-    "op": "0x10"
-  }, 
-  {
-    "packet_size": 0, 
-    "name": "DataEnd", 
-    "date": "2016-07-30T15:48:00", 
-    "date_type": "none", 
-    "_tell": 30, 
-    "op": "0x01"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 31, 
-    "sgv": 0, 
-    "date": "2016-07-30T15:43:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 32, 
-    "sgv": 0, 
-    "date": "2016-07-30T15:38:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 33, 
-    "sgv": 118, 
-    "date": "2016-07-30T15:33:00", 
-    "packet_size": 0, 
-    "op": 59
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 34, 
-    "sgv": 108, 
-    "date": "2016-07-30T15:28:00", 
-    "packet_size": 0, 
-    "op": 54
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 35, 
-    "sgv": 96, 
-    "date": "2016-07-30T15:23:00", 
-    "packet_size": 0, 
-    "op": 48
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 36, 
-    "sgv": 84, 
-    "date": "2016-07-30T15:18:00", 
-    "packet_size": 0, 
-    "op": 42
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 37, 
-    "sgv": 76, 
-    "date": "2016-07-30T15:13:00", 
-    "packet_size": 0, 
-    "op": 38
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 38, 
-    "sgv": 68, 
-    "date": "2016-07-30T15:08:00", 
-    "packet_size": 0, 
-    "op": 34
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 39, 
-    "sgv": 64, 
-    "date": "2016-07-30T15:03:00", 
-    "packet_size": 0, 
-    "op": 32
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 40, 
-    "sgv": 62, 
-    "date": "2016-07-30T14:58:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 41, 
-    "sgv": 62, 
-    "date": "2016-07-30T14:53:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 42, 
-    "sgv": 62, 
-    "date": "2016-07-30T14:48:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 43, 
-    "sgv": 62, 
-    "date": "2016-07-30T14:43:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 44, 
-    "sgv": 62, 
-    "date": "2016-07-30T14:38:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 45, 
-    "sgv": 60, 
-    "date": "2016-07-30T14:33:00", 
-    "packet_size": 0, 
-    "op": 30
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 46, 
-    "sgv": 62, 
-    "date": "2016-07-30T14:28:00", 
-    "packet_size": 0, 
-    "op": 31
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 47, 
-    "sgv": 68, 
-    "date": "2016-07-30T14:23:00", 
-    "packet_size": 0, 
-    "op": 34
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 48, 
-    "sgv": 70, 
-    "date": "2016-07-30T14:18:00", 
-    "packet_size": 0, 
-    "op": 35
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 49, 
-    "sgv": 72, 
-    "date": "2016-07-30T14:13:00", 
-    "packet_size": 0, 
-    "op": 36
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 50, 
-    "sgv": 76, 
-    "date": "2016-07-30T14:08:00", 
-    "packet_size": 0, 
-    "op": 38
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 51, 
-    "sgv": 78, 
-    "date": "2016-07-30T14:03:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 52, 
-    "sgv": 80, 
-    "date": "2016-07-30T13:58:00", 
-    "packet_size": 0, 
-    "op": 40
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 53, 
-    "sgv": 78, 
-    "date": "2016-07-30T13:53:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 54, 
-    "sgv": 78, 
-    "date": "2016-07-30T13:48:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 55, 
-    "sgv": 78, 
-    "date": "2016-07-30T13:43:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 56, 
-    "sgv": 78, 
-    "date": "2016-07-30T13:38:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 57, 
-    "sgv": 80, 
-    "date": "2016-07-30T13:33:00", 
-    "packet_size": 0, 
-    "op": 40
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 58, 
-    "sgv": 80, 
-    "date": "2016-07-30T13:28:00", 
-    "packet_size": 0, 
-    "op": 40
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 59, 
-    "sgv": 80, 
-    "date": "2016-07-30T13:23:00", 
-    "packet_size": 0, 
-    "op": 40
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 60, 
-    "sgv": 78, 
-    "date": "2016-07-30T13:18:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 61, 
-    "sgv": 76, 
-    "date": "2016-07-30T13:13:00", 
-    "packet_size": 0, 
-    "op": 38
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 62, 
-    "sgv": 74, 
-    "date": "2016-07-30T13:08:00", 
-    "packet_size": 0, 
-    "op": 37
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 63, 
-    "sgv": 76, 
-    "date": "2016-07-30T13:03:00", 
-    "packet_size": 0, 
-    "op": 38
-  }, 
-  {
-    "packet_size": 6, 
-    "name": "SensorCalFactor", 
-    "raw": "4c-fa-1e-10-0e-3e", 
-    "date": "2016-07-30T12:58:00", 
-    "factor": 3.646, 
-    "date_type": "minSpecific", 
-    "_tell": 64, 
-    "op": "0x0f"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 71, 
-    "sgv": 78, 
-    "date": "2016-07-30T13:03:00", 
-    "packet_size": 0, 
-    "op": 39
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 72, 
-    "sgv": 92, 
-    "date": "2016-07-30T12:58:00", 
-    "packet_size": 0, 
-    "op": 46
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 73, 
-    "sgv": 94, 
-    "date": "2016-07-30T12:53:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 74, 
-    "sgv": 94, 
-    "date": "2016-07-30T12:48:00", 
-    "packet_size": 0, 
-    "op": 47
-  }, 
-  {
-    "packet_size": 4, 
-    "name": "10-Something", 
-    "raw": "4c-eb-1e-10", 
-    "date": "2016-07-30T12:43:00", 
-    "date_type": "minSpecific", 
-    "_tell": 75, 
-    "op": "0x10"
-  }, 
-  {
-    "body": "48", 
-    "packet_size": 5, 
-    "amount": 72, 
-    "name": "CalBGForGH", 
-    "raw": "4c-eb-1e-10-48", 
-    "date": "2016-07-30T12:43:00", 
-    "date_type": "minSpecific", 
-    "_tell": 83, 
-    "op": "0x0e"
-  }, 
-  {
-    "packet_size": 0, 
-    "name": "DataEnd", 
-    "date": "2016-07-30T12:56:00", 
-    "date_type": "none", 
-    "_tell": 80, 
-    "op": "0x01"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 81, 
-    "sgv": 0, 
-    "date": "2016-07-30T12:51:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 82, 
-    "sgv": 0, 
-    "date": "2016-07-30T12:46:00", 
-    "packet_size": 0, 
-    "op": 0
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 89, 
-    "sgv": 96, 
-    "date": "2016-07-30T12:41:00", 
-    "packet_size": 0, 
-    "op": 48
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 90, 
-    "sgv": 98, 
-    "date": "2016-07-30T12:36:00", 
-    "packet_size": 0, 
-    "op": 49
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 91, 
-    "sgv": 102, 
-    "date": "2016-07-30T12:31:00", 
-    "packet_size": 0, 
-    "op": 51
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 92, 
-    "sgv": 102, 
-    "date": "2016-07-30T12:26:00", 
-    "packet_size": 0, 
-    "op": 51
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 93, 
-    "sgv": 104, 
-    "date": "2016-07-30T12:21:00", 
-    "packet_size": 0, 
-    "op": 52
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 94, 
-    "sgv": 108, 
-    "date": "2016-07-30T12:16:00", 
-    "packet_size": 0, 
-    "op": 54
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 95, 
-    "sgv": 112, 
-    "date": "2016-07-30T12:11:00", 
-    "packet_size": 0, 
-    "op": 56
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 96, 
-    "sgv": 114, 
-    "date": "2016-07-30T12:06:00", 
-    "packet_size": 0, 
-    "op": 57
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 97, 
-    "sgv": 118, 
-    "date": "2016-07-30T12:01:00", 
-    "packet_size": 0, 
-    "op": 59
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 98, 
-    "sgv": 120, 
-    "date": "2016-07-30T11:56:00", 
-    "packet_size": 0, 
-    "op": 60
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 99, 
-    "sgv": 122, 
-    "date": "2016-07-30T11:51:00", 
-    "packet_size": 0, 
-    "op": 61
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 100, 
-    "sgv": 126, 
-    "date": "2016-07-30T11:46:00", 
-    "packet_size": 0, 
-    "op": 63
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 101, 
-    "sgv": 128, 
-    "date": "2016-07-30T11:41:00", 
-    "packet_size": 0, 
-    "op": 64
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 102, 
-    "sgv": 132, 
-    "date": "2016-07-30T11:36:00", 
-    "packet_size": 0, 
-    "op": 66
   }
 ]
