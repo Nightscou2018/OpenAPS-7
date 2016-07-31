@@ -1,5 +1,45 @@
 [
   {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-08-01T00:04:03 head[3], body[0] op[0x0b]", 
+    "alarm_type": 102, 
+    "alarm_description": "Low Glucose", 
+    "_body": "", 
+    "_head": "0b6646", 
+    "amount": 70, 
+    "timestamp": "2016-08-01T00:04:03+01:00", 
+    "_date": "830440a110"
+  }, 
+  {
+    "_type": "Sara6E", 
+    "_description": "Sara6E 2016-08-01T00:00:00 head[1], body[49] op[0x6e]", 
+    "timestamp": "2016-08-01T00:00:00+01:00", 
+    "_body": "06005900000600000744038c3103b833009902e20016000000c003010001005d00491b20190407438b1000010000000000", 
+    "_head": "6e", 
+    "valid_date": "2016-07-31", 
+    "_date": "7f90"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-08-01T00:00:00 head[5], body[3] op[0x07]", 
+    "timestamp": "2016-08-01T00:00:00+01:00", 
+    "_body": "000000", 
+    "_head": "0700000744", 
+    "valid_date": "2016-07-31", 
+    "_date": "7f90"
+  }, 
+  {
+    "_type": "BasalProfileStart", 
+    "_description": "BasalProfileStart 2016-08-01T00:00:00 head[2], body[3] op[0x7b]", 
+    "timestamp": "2016-08-01T00:00:00+01:00", 
+    "_body": "002a00", 
+    "profile_index": 0, 
+    "_head": "7b00", 
+    "rate": 1.05, 
+    "offset": 0, 
+    "_date": "8000000110"
+  }, 
+  {
     "_type": "PumpResume", 
     "_description": "PumpResume 2016-07-31T23:55:18 head[2], body[0] op[0x1f]", 
     "timestamp": "2016-07-31T23:55:18+01:00", 
