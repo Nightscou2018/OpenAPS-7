@@ -2,7 +2,7 @@
   {
     "name": "10-Something", 
     "date_type": "minSpecific", 
-    "_tell": 264, 
+    "_tell": 269, 
     "dateString": "2016-07-30T16:09:00+01:00", 
     "packet_size": 4, 
     "raw": "50-c9-1e-10", 
@@ -23,29 +23,68 @@
     "op": "0x01"
   }, 
   {
-    "glucose": 60, 
+    "glucose": 58, 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
-    "dateString": "2016-07-31T05:03:00+01:00", 
+    "dateString": "2016-07-31T05:28:00+01:00", 
     "packet_size": 0, 
     "device": "openaps://medtronic/pump/cgm", 
-    "date": 1469937780000, 
+    "date": 1469939280000, 
+    "sgv": 58, 
+    "type": "sgv", 
+    "op": 29
+  }, 
+  {
+    "glucose": 58, 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 3, 
+    "dateString": "2016-07-31T05:23:00+01:00", 
+    "packet_size": 0, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "date": 1469938980000, 
+    "sgv": 58, 
+    "type": "sgv", 
+    "op": 29
+  }, 
+  {
+    "glucose": 60, 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "dateString": "2016-07-31T05:18:00+01:00", 
+    "packet_size": 0, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "date": 1469938680000, 
     "sgv": 60, 
     "type": "sgv", 
     "op": 30
   }, 
   {
-    "glucose": 56, 
+    "glucose": 58, 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "dateString": "2016-07-31T04:58:00+01:00", 
+    "_tell": 5, 
+    "dateString": "2016-07-31T05:13:00+01:00", 
     "packet_size": 0, 
     "device": "openaps://medtronic/pump/cgm", 
-    "date": 1469937480000, 
-    "sgv": 56, 
+    "date": 1469938380000, 
+    "sgv": 58, 
     "type": "sgv", 
-    "op": 28
+    "op": 29
+  }, 
+  {
+    "glucose": 58, 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 6, 
+    "dateString": "2016-07-31T05:08:00+01:00", 
+    "packet_size": 0, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "date": 1469938080000, 
+    "sgv": 58, 
+    "type": "sgv", 
+    "op": 29
   }
 ]
